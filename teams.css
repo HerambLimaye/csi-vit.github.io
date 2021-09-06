@@ -287,10 +287,10 @@ img {
     border-radius: 10px;
 }
 .heads .card_title{
-    font-size: 3vw;
+    font-size: 4vw;
 }
 .heads .card_text{
-    font-size: 2vw;
+    font-size: 3vw;
 }
 .one{
     display: grid;
