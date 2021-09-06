@@ -164,6 +164,15 @@ button:hover{
 .heading{
     font-size: 20vw;
 }
+	
+h2 {
+    font-size: 5VW;
+}
+
+h3{
+    font-size: 4vw;
+}
+	
 }
 
  /*-----------------------navbar--------------------*/
