@@ -184,7 +184,7 @@ h3{
     line-height: 65px;
     text-align: center;
     z-index: 10;
-    position: absolute;
+    position: fixed;
     top: 0%;
     right: 2%;
     font-family: teko;
