@@ -710,6 +710,9 @@ body {
     .hero h3{
         font-size: 100%;
     }
+	.nav{
+		position:fixed;
+	}
     .navTrigger {
         display: block;
     }
